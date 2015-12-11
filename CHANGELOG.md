@@ -4,6 +4,7 @@ IMPROVEMENTS:
 
  * cli: Output secrets sorted by key name [GH-830]
  * cli: Support YAML as an output format [GH-832]
+ * core: A separate physical backend can now be specified for HA operations [GH-395]
 
 MISC:
 
